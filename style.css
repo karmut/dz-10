@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+   height: 100vh;
+   background-position: center;
+   background-size: cover;
+   background-image: url(bg.jpg);
+   
+  
+}
+.content {
+    width: 340px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 150px;
+
+
+}
+.title {
+    margin-bottom: 5px;
+    color: white;
+    text-align: center;
+    
+
+}
+
+.big-title {
+    font-size: 90px;
+    margin-bottom: 28px;
+    font-family: 'Rubik Moonrocks', cursive;
+    color: white;
+    text-align: center;
+}
+.button {
+    text-decoration: none;
+    background-color: #E42563;
+    display:block ;
+    margin: auto;
+    width: 180px;
+    color: white;
+    border-radius: 12px;
+    text-align: center;
+    height: 30px;
+}
+.button:hover {
+    background-color: #da86a1;
+}
